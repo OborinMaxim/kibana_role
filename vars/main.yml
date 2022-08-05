@@ -1,0 +1,5 @@
+---
+# vars file for kibana_role
+#
+# Переменная download - для сокращения количества символов в строке со ссылкой для скачиванаия kibana
+download: "file-st06.karelia.ru"
